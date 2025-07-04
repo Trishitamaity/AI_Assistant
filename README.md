@@ -4,12 +4,12 @@ A simple, voice-controlled AI desktop assistant built using Python. This assista
 
 ## 📌 Features
 
-- 🎙️ Voice recognition with `speech_recognition`
-- 🗣️ Text-to-speech using `pyttsx3`
+- 🎙️ Recognizes user voice commands using a microphone
+- 🗣️ Converts text responses to speech for natural interaction
 - 🌐 Web search functionality
-- 🖥️ Open desktop applications via voice
 - ⏰ Time-based responses
 - 🔁 Continuous listening loop for real-time interaction
+- 🧩 Easily extendable for new features or APIs
 
 ## 🛠️ Technologies Used
 
