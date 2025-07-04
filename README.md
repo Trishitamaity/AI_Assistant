@@ -1,4 +1,4 @@
-# 🤖 AI Assistant – Voice-Enabled Desktop Assistant
+# 🤖 AI Assistant – Voice Enabled Desktop Assistant
 
 A simple, voice-controlled AI desktop assistant built using Python. This assistant can perform tasks such as searching the web, opening applications, providing time updates, and responding to voice queries using speech recognition and text-to-speech technology.
 
