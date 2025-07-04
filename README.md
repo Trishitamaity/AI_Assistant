@@ -6,8 +6,8 @@ A simple, voice-controlled AI desktop assistant built using Python. This assista
 
 - 🎙️ Recognizes user voice commands using a microphone
 - 🗣️ Converts text responses to speech for natural interaction
-- 🌐 Web search functionality
-- ⏰ Time-based responses
+- 🌐 Performs web searches
+- ⏰ Provides accurate time-based responses on request
 - 🔁 Continuous listening loop for real-time interaction
 - 🧩 Easily extendable for new features or APIs
 
@@ -18,5 +18,4 @@ A simple, voice-controlled AI desktop assistant built using Python. This assista
 - pyttsx3: Converts text responses into audible speech
 - webbrowser: Opens websites and performs web-based tasks
 - datetime: Retrieves the current date and time for context-aware responses
-- os: Interacts with the system to launch desktop applications
 - Pyaudio: Enables access to the microphone for real-time voice input
